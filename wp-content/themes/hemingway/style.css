@@ -542,7 +542,7 @@ a.more-link,
 
 .post-header { margin-bottom: 6%; }
 
-.post-title {
+/*.post-title {
 	font-size: 2.5em;
 	font-weight: 700;
 	line-height: 120%;
@@ -556,7 +556,20 @@ a.more-link,
    -moz-hyphens: auto;
         hyphens: auto;
 		text-align: right;
-}
+}*/
+
+.post-title {
+	font-family: 'Lato',"Helvetica Neue",sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 1.2173913043;
+    text-align: right;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    border-bottom: 1px dotted #ccc;
+    text-align: left;
+	}
 
 .post-title,
 .post-title a { color: #2d2d2d; }
