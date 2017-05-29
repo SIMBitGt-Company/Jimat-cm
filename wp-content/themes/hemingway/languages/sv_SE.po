@@ -206,8 +206,8 @@ msgstr "Sökformulär"
 #: footer.php:65
 #, php-format
 #@ hemingway
-msgid "Theme by <a href=\"%s\">Anders Noren</a>"
-msgstr "Tema av <a href=\"%s\">Anders Noren</a>"
+msgid "Theme by <a href=\"%s\">SIMBIT</a>"
+msgstr "Tema av <a href=\"%s\">SIMBIT</a>"
 
 #: footer.php:65
 #@ hemingway
