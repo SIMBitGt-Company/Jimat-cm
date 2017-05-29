@@ -4578,8 +4578,8 @@ msgstr "1"
 
 #. translators: site tagline
 #: wp-admin/includes/schema.php:398
-msgid "Just another WordPress site"
-msgstr "Otro sitio realizado con WordPress"
+msgid "By SIMBit"
+msgstr "De todo para tu mascota."
 
 #: wp-admin/includes/schema.php:396
 msgid "My Site"
