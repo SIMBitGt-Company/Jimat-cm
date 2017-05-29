@@ -555,6 +555,7 @@ a.more-link,
 -webkit-hyphens: auto;
    -moz-hyphens: auto;
         hyphens: auto;
+		text-align: center;
 }
 
 .post-title,
