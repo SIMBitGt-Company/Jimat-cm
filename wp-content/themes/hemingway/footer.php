@@ -4,7 +4,7 @@
 		
 			<?php if ( is_active_sidebar( 'footer-a' ) ) : ?>
 			
-				<div class="column column-1 left">
+				<div class="column column-2 left">
 				
 					<div class="widgets">
 			
